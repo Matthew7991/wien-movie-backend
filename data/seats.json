@@ -1,0 +1,146 @@
+[
+  {
+    "id": 1,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 2,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 3,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 4,
+    "type": "Oberschicht",
+    "reserved": true,
+    "price": 16
+  },
+  {
+    "id": 5,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 6,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 7,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 8,
+    "type": "Oberschicht",
+    "reserved": true,
+    "price": 16
+  },
+  {
+    "id": 9,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 10,
+    "type": "Oberschicht",
+    "reserved": true,
+    "price": 16
+  },
+  {
+    "id": 11,
+    "type": "Oberschicht",
+    "reserved": true,
+    "price": 16
+  },
+  {
+    "id": 12,
+    "type": "Oberschicht",
+    "reserved": false,
+    "price": 16
+  },
+  {
+    "id": 13,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 14,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 15,
+    "type": "Unterschicht",
+    "reserved": true,
+    "price": 12
+  },
+  {
+    "id": 16,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 17,
+    "type": "Unterschicht",
+    "reserved": true,
+    "price": 12
+  },
+  {
+    "id": 18,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 19,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 20,
+    "type": "Unterschicht",
+    "reserved": true,
+    "price": 12
+  },
+  {
+    "id": 21,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 22,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 23,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  },
+  {
+    "id": 24,
+    "type": "Unterschicht",
+    "reserved": false,
+    "price": 12
+  }
+]
